@@ -1,7 +1,7 @@
 Problem 1:
 ```
 Monthly sales report for 2022:
-Month      Sales
+Month       Sales
 January     $23458.01
 February    $40112.00
 March       $56011.85

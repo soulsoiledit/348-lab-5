@@ -21,7 +21,7 @@ int main(int argc, char *argv[])
   float min = 1000000000.0;
   float avg = 0.0;
   printf("Monthly sales report for 2022:\n");
-  printf("Month      Sales\n");
+  printf("Month       Sales\n");
   while (fscanf(fptr, "%s", buf) == 1) {
       printf("%s   $%s\n", months[indx], buf);
 
