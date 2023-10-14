@@ -49,6 +49,7 @@ Problem 2:
 ```
 Enter 0 or 1 to STOP
 Enter the NFL score: 25
+possible combinations of scoring plays:
 0 TD + 2pt, 0 TD + FG, 0 TD, 1 3pt FG, 11 Safety
 0 TD + 2pt, 0 TD + FG, 0 TD, 3 3pt FG, 8 Safety
 0 TD + 2pt, 0 TD + FG, 0 TD, 5 3pt FG, 5 Safety

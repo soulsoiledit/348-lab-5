@@ -17,7 +17,7 @@ int main(int argc, char *argv[])
     int td = 6;
     int fg = 3;
     int sf = 2;
-
+    printf("possible combinations of scoring plays:\n");
     for (int td_2 = 0; td_2 <= goal; td_2 += 8) {
       int goal2 = goal - td_2;
       for (int td_fg = 0; td_fg <= goal2; td_fg += 7) {
