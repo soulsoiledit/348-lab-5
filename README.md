@@ -47,7 +47,8 @@ January     $23458.01
 
 Problem 2:
 ```
-25
+Enter 0 or 1 to STOP
+Enter the NFL score: 25
 0 TD + 2pt, 0 TD + FG, 0 TD, 1 3pt FG, 11 Safety
 0 TD + 2pt, 0 TD + FG, 0 TD, 3 3pt FG, 8 Safety
 0 TD + 2pt, 0 TD + FG, 0 TD, 5 3pt FG, 5 Safety
@@ -86,4 +87,6 @@ Problem 2:
 2 TD + 2pt, 0 TD + FG, 0 TD, 3 3pt FG, 0 Safety
 2 TD + 2pt, 0 TD + FG, 1 TD, 1 3pt FG, 0 Safety
 2 TD + 2pt, 1 TD + FG, 0 TD, 0 3pt FG, 1 Safety
-1
+Enter 0 or 1 to STOP
+Enter the NFL score: 1
+```
